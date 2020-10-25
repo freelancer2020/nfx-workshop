@@ -1,0 +1,85 @@
+
+.cover-container {
+    width: 100%;
+    height: 20vh;
+    z-index: 1;
+    display: flex;
+}
+
+.cover-image {
+    width: 100%;
+    height: 100%;
+
+    z-index: 1;
+
+    border-radius: 5px;
+    
+}
+
+/*Control */
+
+
+.left-side {
+    width: 70%;
+    height: 100%;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.right-side {
+    width: 30%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.icon {
+    width: 35px;
+    height: 35px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 100%;
+    border: 2px solid #9F9E9C;
+    cursor: pointer;
+}
+
+.icon:hover {
+    border: 2px solid #FFFF;
+}
+
+.fa-folder-open, .fa-plus, .fa-thumbs-up, .fa-thumbs-down, .fa-chevron-down {
+    color: #ffff;
+    font-size: 1.5vw;
+}
+
+
+/* info container */
+.info-container {
+    width: 90%;
+    height: 10vh;
+
+    display: none;
+    flex-direction: column;
+
+    color: #ffff;
+}
+
+.card-header {
+    color: #54C571;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.card-title {
+    margin-left: 5px;
+}
+
+
