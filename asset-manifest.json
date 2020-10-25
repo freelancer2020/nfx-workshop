@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nfx-workshop/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/nfx-workshop/static/js/main.7392936d.chunk.js",
+    "main.js.map": "/nfx-workshop/static/js/main.7392936d.chunk.js.map",
+    "runtime-main.js": "/nfx-workshop/static/js/runtime-main.dcb6fb52.js",
+    "runtime-main.js.map": "/nfx-workshop/static/js/runtime-main.dcb6fb52.js.map",
+    "static/js/2.7c94dd39.chunk.js": "/nfx-workshop/static/js/2.7c94dd39.chunk.js",
+    "static/js/2.7c94dd39.chunk.js.map": "/nfx-workshop/static/js/2.7c94dd39.chunk.js.map",
+    "static/js/3.2c9c5d39.chunk.js": "/nfx-workshop/static/js/3.2c9c5d39.chunk.js",
+    "static/js/3.2c9c5d39.chunk.js.map": "/nfx-workshop/static/js/3.2c9c5d39.chunk.js.map",
+    "index.html": "/nfx-workshop/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/nfx-workshop/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.7c94dd39.chunk.js.LICENSE.txt": "/nfx-workshop/static/js/2.7c94dd39.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/nfx-workshop/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcb6fb52.js",
+    "static/js/2.7c94dd39.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.7392936d.chunk.js"
+  ]
+}
